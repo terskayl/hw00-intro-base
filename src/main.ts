@@ -178,7 +178,7 @@ function main() {
 
   const guiContainer = gui.domElement.parentElement as HTMLElement;
 
-  const scale = 2.5;
+  const scale = 1.5;
 
   guiContainer.style.transform = `scale(${scale})`;
 
